@@ -91,3 +91,6 @@ Across the scope of the project, we touch upon various components of our data sc
 
 
 ## Summary
+
+<center><img src='Olympic_Rings.gif'>
+</center>
