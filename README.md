@@ -3,8 +3,28 @@
 
 ## Introduction
 
-<center><img src='Olympic_Rings.gif'>
+<center><img src='Mario_Olympics.gif'>
 </center>
+
+Inspired by the Ancient Greek games, the modern-day Olympics began in 1896, ceremoniously hosted in Athens, Greece. Governed by the International Olympics Committee (founded in 1894), the modern Olympics Games have grown and evolved tremendously over the past 124, subject to cultural, political, and social influence from international participants across the world. An epicenter of both global cooperation and conflict, the Olympic Games reflect and inform the state of our international relationships. From doping to boycotts, terrorism to treaties, the Olympic Games has faced its fair share of obstacles throughout its history. Starting with a mere 12 nations in 1896, the summer Olympic Games now host over 200 countries every four years. Introduced in 1924, the winter Olympic Games increased the size of the Olympic program tremendously, but eventually split from the summer games in 1992. Now, each set of games alternates in occurrence, hosted every four years, but two years apart in that cycle. Additional changes have occurred as a result of the political, economic, and technological growth of our society, allowing the Olympic Games to become a catalyst for social change and human rights movements. Throughout this process, athletes from across the world, now representing nearly every nation, have the opportunity to represent their homeland. Additionally, host countries gain the opportunity to boast their status by showcasing their city to the rest of the world.
+
+In this project, we conduct a comprehensive analysis of the modern Olympic Games from 1896 until the present, using data from each participant with the following features:
+    * Name
+    * Sex
+    * Age
+    * Height
+    * Weight
+    * Team
+    * NOC
+    * Games
+    * Year
+    * Season
+    * City
+    * Sport
+    * Event
+    * Medal
+    
+Through this analysis, our goal will be to reveal insights about the Olympic Games, particularly with regards to changes over time, differences between types of athletes, and the ways in which the games inform our international relations.
 
 ## Objectives
 
@@ -63,37 +83,10 @@ Across the scope of the project, we touch upon various components of our data sc
 2. **S**crub
 3. **E**xplore 
 4. **M**odel
-5. A**n**alyze
+5. I**n**terpret
 
 <center><img src='OSEMN _framework.png'>
 </center>
 
-### Final Project Requirements
-
-Congratulations on making it to module 5! It's been a long journey, but we can finally see the light at the end of the tunnel!
-
-<center><img src='end-of-tunnel.gif'>
-<strong><em>Actual Footage of you seeing the light at the end of the tunnel</strong></em>
-</center>
-
-Now that you've learned everything we have to teach you, it's time to show off and flex your data science muscles with your own **_Capstone Project_**! This project will allow you to showcase everything you've learned as a data scientist to by completing a professional-level data science project of your choosing. This project will be significantly larger than any project you've completed so far, and will be the crown jewel of your portfolio. A strong capstone project is the single most important thing you can do to get the attention of potential employers, so be prepared to put as much effort into this project as possible--the results are **_worth it!_**
-
-<center><img src='milkshake.gif'>
-<strong><em>Your <s>milkshake</s> portfolio brings all the <s>boys</s> employers to <s>the yard</s> your inbox! </strong></em>
-</center>
-
-Let's take a look at the project requirements.
-
-### Technical Requirements
-
-Your project must meet the following technical requirements:
-
-1. **_No Off-The-Shelf Datasets_**. This project is a chance for you to highlight your critical thinking and data gathering skills by finding the perfect dataset to answer your question. If a pre-existing dataset exists that you'd like to use, it is okay to use it in your project. However, you should consider combining it with other existing sources of data, modifying the dataset through feature engineering. The goal here is to showcase your ability to find and work with data, so just grabbing Boston Housing Dataset or the MNIST dataset is out of the question. 
-
-2. **_Strong Data Exploration, with at least 4 relevant data visualizations._** Think of this project as a way for you to showcase your best possible work in every area that matters. There are few skills that impress employers more than the ability to dive into a new dataset and produce engaging visualizations that communicate important information. For this project, anything worth knowing is worth visualizing. Consider all that you have learned, and don't be afraid to dig into more advanced visualization libraries like seaborn to see what you make! You should make use of visualizations whenever possible during this project, not just during the Data Exploration phase--for instance, consider visualizing your confusion matrices rather than just printing them out as text!
-
-### Deliverables
-    1. An **_Abstract_** section that briefly explains your problem, your methodology, and your findings, and business recommendations as a result of your findings. This section should be 1-2 paragraphs long.  
-    2. The technical analysis for a data science audience. This detailed technical analysis should explicitly follow a Data Science Process as outlined in the previous section. It should be well-formatted and organized, and should contain all code, visualizations, and detailed explanations/analysis.
 
 ## Summary
