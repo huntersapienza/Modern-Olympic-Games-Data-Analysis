@@ -1,19 +1,58 @@
 
-# Module 5 - Final Project Requirements
+# Modern Olympic Games Analysis
 
 ## Introduction
 
-In this lesson, we'll discuss the requirements and expectations for the Module 5 Capstone Project!
+<center><img src='Olympic_Rings'>
 
 ## Objectives
 
-You will be able to:
+Throughout this project we will aim to answer the following questions, as divided into the following notebooks:
 
-* Describe all required aspects of the final project for Module 5
-* Describe all required deliverables
-* Describe what constitutes a successful project
-* Describe what the experience of the project review should be like
+1. Introduction
+    * How can we scrub and prepare our data for further analysis?
+    
+2. Gender
+    * What is the overall gender composition of the Olympic Games?
+    * Are height, weight, and age of male and female athletes substantially different?
+    * How has the proportion of male and female athletes changed over time?
+    * Which countries boast the greatest gender equality based on female participation?
+    * Can we predict an athlete's gender based on their height, weight, and age?
+    
+3. Types of Athletes
+    * Which sports have had the most athletes over time?
+    * How do the average age, height, and weight differ for athletes of each sport?
+    * What trends exist in the height-weight correlation and BMI for athletes of each sport?
+    * Are basketball players' heights significantly greater than other athletes?
+    * Are rythmic gymnasts significantly lighter than other athletes?
+    
+4. Olympic Medalists
+    * What are the average characteristics of Olympic medalists?
+    * How have the average characteristics of Olympic medalists changed over time?
+    * Do characteristics of Olympic medalists differ significantly from non-medalists?
+    * Which individuals have received the most medals?
+    * Who are our youngest and oldest medalists?
+    * Which sports have produced the most medalists over time?
+    
+5. Exploring Countries
+    * How do we account for countries with multiple NOC codes throughout history?
+    * Which countries have won the most Olympic medals total?
+    * Which countries have the highest proportion of athletes winning medals?
+    * How can we visualize medal data for each country with plotly choropleth maps?
+    * How has the number of participating countries changed over time?
+    * How has the number of athletes from our top participating countries changed over time?
 
+6. Seasonal Athletes
+    * Is there a significant height difference between summer and winter athletes?
+    * Is there a significant weight difference between summer and winter athletes?
+    * Is there a significant age difference between summer and winter athletes?
+    
+7. Trends Over Time
+    * How have athlete age, height, and weight changed over time?
+    * How has country participation changed over time?
+    * Which countries have participated in the highest number of Olympic Games?
+    * Which countries have participated in the highest number of summer and winter Olympic Games?
+    * How has the overall size of the Olympic Games changed over time?
 
 ### Final Project Requirements
 
