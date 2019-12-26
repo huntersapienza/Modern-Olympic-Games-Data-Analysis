@@ -3,7 +3,7 @@
 
 ## Introduction
 
-<center><img src='Olympic_Rings'>
+<center><img src='Olympic_Rings.gif'>
 
 ## Objectives
 
