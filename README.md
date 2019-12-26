@@ -65,7 +65,7 @@ Across the scope of the project, we touch upon various components of our data sc
 4. **M**odel
 5. A**n**alyze
 
-<center><img src='OSEMN_framework.png'>
+<center><img src='OSEMN _framework.png'>
 </center>
 
 ### Final Project Requirements
